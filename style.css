@@ -6,7 +6,7 @@
 }
 
 section {
-  height: 100vh;
+  height: 200vh;
   min-width: 95vh;
   background-color: rgb(39, 41, 68);
   font-family: sans-serif;
@@ -37,7 +37,7 @@ section {
   align-items: center;
   justify-content: space-around;
   transition: opacity 0.5s ease;
-  padding-top: 50vh;
+  padding-top: 140vh;
 }
 
 .intro h1 {
