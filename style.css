@@ -37,11 +37,11 @@ section {
   align-items: center;
   justify-content: space-around;
   transition: opacity 0.5s ease;
-  padding-top: 80vh;
+  padding-top: 100vh;
 }
 
 .intro h1 {
-  font-size: 30px;
+  font-size: 50px;
 }
 .intro button,
 .match button {
@@ -157,6 +157,6 @@ div.fadeIn {
   }
 }
 .icon{
-  height: 100vh;
+  height: 80vh;
   padding: 10vh;
 }
