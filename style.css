@@ -59,7 +59,8 @@ section {
 
 .match {
     
-  
+  display: grid;
+  justify-content: center;
   transition: opacity 0.5s ease 0.5s;
 }
 .winner {
