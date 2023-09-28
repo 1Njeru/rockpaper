@@ -42,8 +42,8 @@ const game = () => {
             computerHand.src = `./assets/${computerChoice}.png`;
           }, 2000);
           //Animation
-          playerHand.style.animation = "shakePlayer 1s ease";
-          computerHand.style.animation = "shakeComputer 3s ease";
+          playerHand.style.animation = "shakePlayer 2s ease";
+          computerHand.style.animation = "shakeComputer 2s ease";
         });
 
         
