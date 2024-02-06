@@ -6,8 +6,8 @@
 }
 
 section {
-  height: auto;
-  width: auto;
+  height: 240vh;
+  width: 100vh;
   background-color: rgb(39, 41, 68);
   font-family: sans-serif;
 }
@@ -37,7 +37,7 @@ section {
   align-items: center;
   justify-content: space-around;
   transition: opacity 0.5s ease;
-  padding-top: 45vh;
+  padding-top: 50vh;
 }
 
 .intro h1 {
@@ -61,7 +61,7 @@ section {
     
   display: grid;
   justify-content: center;
-  padding-bottom: 45vh;
+  padding-bottom: 35vh;
   transition: opacity 0.5s ease 0.5s;
 }
 .winner {
