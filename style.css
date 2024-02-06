@@ -6,7 +6,7 @@
 }
 
 section {
-  height: 240vh;
+  height: 180vh;
   min-width: 100vh;
   background-color: rgb(39, 41, 68);
   font-family: sans-serif;
@@ -156,6 +156,6 @@ div.fadeIn {
   padding: 10vh;
 }
 .foot{
-  align-items: center;
+  text-align: center;
   justify-content: center;
 }
