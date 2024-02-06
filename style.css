@@ -62,7 +62,7 @@ section {
     
   display: grid;
   justify-content: center;
-  padding-bottom: 35vh;
+  
   transition: opacity 0.5s ease 0.5s;
 }
 .winner {
