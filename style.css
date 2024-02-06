@@ -37,8 +37,8 @@ section {
   align-items: center;
   justify-content: space-around;
   transition: opacity 0.5s ease;
-  padding-top: 50vh;
-  padding-bottom:-50vh;
+  padding-top: 65vh;
+  padding-bottom:-20vh;
 }
 
 .intro h1 {
