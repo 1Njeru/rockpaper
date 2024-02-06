@@ -61,8 +61,6 @@ section {
 .match {
     
   display: grid;
-  justify-content: center;
-  padding-top: 20vh;
   transition: opacity 0.5s ease 0.5s;
 }
 .winner {
