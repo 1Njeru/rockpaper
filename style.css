@@ -155,3 +155,6 @@ div.fadeIn {
   height: 100vh;
   padding: 10vh;
 }
+.foot{
+  align-items: center;
+}
