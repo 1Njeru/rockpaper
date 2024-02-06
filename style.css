@@ -59,7 +59,7 @@ section {
 }
 
 .match {
-    
+  heighr: 200vh; 
   display: grid;
   transition: opacity 0.5s ease 0.5s;
 }
@@ -157,5 +157,5 @@ div.fadeIn {
 .foot{
   text-align: center;
   justify-content: center;
-  
+  padding-top: 20vh;
 }
