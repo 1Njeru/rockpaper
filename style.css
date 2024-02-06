@@ -17,7 +17,7 @@ section {
   
   display: flex;
   justify-content: space-around;
-  align-items: center;
+  
   gap: 15vh;
 }
 .score h2 {
@@ -38,7 +38,7 @@ section {
   justify-content: space-around;
   transition: opacity 0.5s ease;
   padding-top: 80vh;
-  padding-bottom:-20vh;
+
 }
 
 .intro h1 {
