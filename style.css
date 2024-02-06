@@ -7,7 +7,7 @@
 
 section {
   height: auto;
-  min-width: auto;
+  width: auto;
   background-color: rgb(39, 41, 68);
   font-family: sans-serif;
 }
