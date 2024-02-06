@@ -37,7 +37,7 @@ section {
   align-items: center;
   justify-content: space-around;
   transition: opacity 0.5s ease;
-  padding-top: 85vh;
+  padding-top: 45vh;
 }
 
 .intro h1 {
@@ -61,7 +61,7 @@ section {
     
   display: grid;
   justify-content: center;
-  padding-bottom: 60vh;
+  padding-bottom: 45vh;
   transition: opacity 0.5s ease 0.5s;
 }
 .winner {
